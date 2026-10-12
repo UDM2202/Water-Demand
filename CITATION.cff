@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this analysis, please cite it."
+title: "Oka water demand forecasting: reproducible analysis (neural network vs regression)"
+authors:
+  - family-names: Ulokaji
+    given-names: Daniel M.
+  - family-names: Bobor
+    given-names: Lulu O.
+license: MIT
+repository-code: "https://github.com/UDM2202/Water-Demand"
